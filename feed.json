@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "You have been Phishing",
+    "description": "",
+    "home_page_url": "https://jim-crosby.github.io/Website",
+    "feed_url": "https://jim-crosby.github.io/Website/feed.json",
+    "user_comment": "",
+    "icon": "https://jim-crosby.github.io/Website/media/website/ticktokMF.jpg",
+    "author": {
+        "name": "Jim"
+    },
+    "items": [
+        {
+            "id": "https://jim-crosby.github.io/Website/blueline-group.html",
+            "url": "https://jim-crosby.github.io/Website/blueline-group.html",
+            "title": "Blueline Group",
+            "summary": "Phishing Test You have clicked on a simulated phishing test email. Clicking on any link with in an email can allow a Virus or a hacker into our systems, this has happened before and caused the company weeks of disruption. Did anything look out of&hellip;",
+            "content_html": "<div class=\"header\" style=\"text-align: left;\">\n<div class=\"navLink\">\n<h3 style=\"margin: 0;\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jim-crosby.github.io/Website/media/posts/1/blueline-new-small-2.jpg\" width=\"106\" height=\"106\" sizes=\"100vw\" srcset=\"https://jim-crosby.github.io/Website/media/posts/1/responsive/blueline-new-small-2-xs.jpg 300w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/blueline-new-small-2-sm.jpg 480w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/blueline-new-small-2-md.jpg 768w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/blueline-new-small-2-lg.jpg 1024w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/blueline-new-small-2-xl.jpg 1360w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/blueline-new-small-2-2xl.jpg 1600w\"></figure><strong> Phishing Test</strong></h3>\n</div>\n</div>\n<div class=\"container\" style=\"text-align: center;\">\n<div class=\"jumbotron\">\n<h2><span style=\"text-decoration: underline;\"><em>You have clicked on a simulated phishing test email.</em></span></h2>\n<p>Clicking on any link with in an email can allow a Virus or a hacker into our systems, this has happened before and caused the company weeks of disruption.</p>\n<h3>Here are some tips to help you stay safer in the future</h3>\n</div>\n<div class=\"row\">\n<div class=\"col-md-4\">\n<h1>Tip: #1</h1>\n<h2>Stop, Look, Think</h2>\n<p>Did anything look out of the ordinary? Did you recognize the senders address? Was it similar but not the same as an offical email?</p>\n<p style=\"font-size: 1.2em;\">HR Department &lt;company.bonus@usa.com&gt;</p>\n</div>\n<div class=\"col-md-4\">\n<h1>Tip: #2</h1>\n<h2>Do you spot a red flag?</h2>\n<p>Any email from an external sender should have a caution message at the very top. Do you see this banner?</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jim-crosby.github.io/Website/media/posts/1/warning-2.png\" alt=\"\" width=\"764\" height=\"46\" sizes=\"100vw\" srcset=\"https://jim-crosby.github.io/Website/media/posts/1/responsive/warning-2-xs.png 300w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/warning-2-sm.png 480w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/warning-2-md.png 768w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/warning-2-lg.png 1024w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/warning-2-xl.png 1360w ,https://jim-crosby.github.io/Website/media/posts/1/responsive/warning-2-2xl.png 1600w\"></figure>\n<p>That little message was aclue that this email came into our comapny via the internet.</p>\n<p>Just take an extra second to check the senders email address. In this case it had HR Department but the actual email address was not saying that it came from Blueline as you would have expected. does it have odd spelling or grammer mistakes, that you would not expect from a litgitmate company.</p>\n</div>\n<div class=\"col-md-4\">\n<h1>Tip: #3</h1>\n<h2>When in doubt throw it out</h2>\n<p>If you ever think that an email is suspicous it is better to err on the side of caution. Contact Brooklyn or Jim and they will be able to check it out and if necessary remove it from everyones email.</p>\n<p>If you think you have clicked on something nefarious (good word that), then please don't try and hide it or not mention it as it will always comeback to bite you. Just let us know as soon as possible that way we can check, and take any remendial action, and honest that will not include slapping you on the back of the head. As these Phishing emails are designed to try and catch people out just look for the little clues. </p>\n</div>\n</div>\n</div>",
+            "image": "https://jim-crosby.github.io/Website/media/posts/1/blueline-new-small-3.jpg",
+            "author": {
+                "name": "Jim"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-25T16:06:43+01:00",
+            "date_modified": "2023-09-27T15:47:52+01:00"
+        }
+    ]
+}
